@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+out/
+*.skill
+working.docx
+triage.json
+merged.json
+collisions.json
